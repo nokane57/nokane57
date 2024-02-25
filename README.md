@@ -1,16 +1,30 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**nokane57/nokane57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Salut ! Je suis passionné par le développement de logiciels et je me spécialise dans la création de bots Discord, de mods, plugins et launchers Minecraft. J'adore créer des expériences interactives et divertissantes pour les communautés en ligne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes compétences
+
+- Développement de bots Discord en utilisant JDA.
+- Création de mods et plugins pour Minecraft en utilisant Forge, Spigot, ou Bukkit.
+- Développement de launchers personnalisés pour Minecraft en Java.
+- Programmation en Java.
+
+## Projets récents
+
+Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
+
+- [Launcher Assaderie](lien_vers_le_projet) : Description brève du projet et de ma contribution.
+- [HCU_RTP_Mods](lien_vers_le_projet) : Description brève du projet et de ma contribution.
+- [Assaderie_Mods](lien_vers_le_projet) : Description brève du projet et de ma contribution.
+
+## Me contacter
+
+Vous pouvez me contacter sur Discord ou via d'autres plateformes :
+
+- Discord: nokane_57
+
+N'hésitez pas à explorer mes dépôts GitHub pour découvrir plus de projets passionnants !
+
+![Image de fond](https://i.imgur.com/oWyI3as.png)
