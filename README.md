@@ -16,7 +16,7 @@ Salut ! Je suis passionné par le développement de logiciels et je me spéciali
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 - [Launcher Assaderie](lien_vers_le_projet) : Description brève du projet et de ma contribution.
-- [HCU_RTP_Mods](lien_vers_le_projet) : Description brève du projet et de ma contribution.
+- [HCU_RTP_Mods]([lien_vers_le_projet](https://github.com/nokane57/RTPMods)) : Description brève du projet et de ma contribution.
 - [Assaderie_Mods](lien_vers_le_projet) : Description brève du projet et de ma contribution.
 
 ## Me contacter
