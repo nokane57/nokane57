@@ -17,6 +17,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 - [Launcher Assaderie](lien_vers_le_projet) : Description brève du projet et de ma contribution.
 - [HCU_RTP_Mods](https://github.com/nokane57/RTPMods) : Description brève du projet et de ma contribution.
+- [HCU_CHUNK_LOADED](https://github.com/nokane57/HcuChunckLoaded) : Description brève du projet et de ma contribution.
 - [Assaderie_Mods](lien_vers_le_projet) : Description brève du projet et de ma contribution.
 
 ## Me contacter
